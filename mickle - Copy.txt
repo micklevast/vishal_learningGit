@@ -1,0 +1,4 @@
+this is copy file of first mickle.txt
+------------------------------------- 
+this is random file
+this will untracked after these commond->$git rm --cached Filename
